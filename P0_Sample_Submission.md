@@ -2,38 +2,41 @@
 
 ## Introduction
 
+Udacity DevOps NanoDegree Project0 submission.
+
+<!--
 Use this sample submission as a guide as you create your own submission for the Improvement Plan project. Your own submission should not replicate these answers about the ShoeBytes company. Rather, it should be based on either your own situation, or the fictional company described later.
 
 Notice that the submission includes a date for each answer. As you progress through the Nanodegree program, you will be invited to return to your Improvement Plan and to update it based on the new skills and techniques you have acquired. When you revise the plan in this way, please **leave in your previous responses** to each answer, and add a new one below with the date. This will make the project a living document that will serve as your own record of what you have learned.
-
+-->
 ## Organizational Snapshot
 
 #### Provide a brief description of your company and your team's role in it.
 
-**April 13**
+**April 19**
 
-I work in a small company called ShoeBytes that sells footwear. The company has a total of six retail stores in three different cities, as well as an online store. Our company has about 600 employees. The IT department is 80 people. My team of 12 people is part of the IT department and maintains the online storefront.
+I work as backend/devops developer in a small company called **La Laguna Bike Center** that sells mainly mountainbikes and all related stuff. The company has a total of six retail stores in three different cities, as well as an online store. Our company has about 600 employees. The IT department is 80 people. My team of 12 people is part of the IT department and maintains the online storefront.
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
-**April 13**
+**April 19**
 
-* Team goal: Provide an online shoe store for customers
+* Team goal: Provide an online bike store for customers
 * Organizational unit: Maintain web presence and IT infrastructure for company
-* Company goal: sell customers shoes
+* Company goal: sell good bikes and mtb products
 
 #### Who are your team's customers? Are they internal or external? What do they need?
 
-**April 13**
+**April 19**
 
-* External customer: users of the online store. They need to be able to buy shoes.
+* External customer: users of the online store. They need to be able to buy mtb products.
 * Internal customer: Accounting team. Need to receive daily totals of online purchase receipts.
-* Internal customer: Warehouse team. Need to receive details of each transaction including exact shoe model, size, and color sold, and also shipping address so the shoes can be sent to the purchaser.
-* Internal customer: Purchasing team needs summary report of shoe styles sold each week for forecasting and restocking purposes.
+* Internal customer: Warehouse team. Need to receive details of each transaction including exact bike model, size, and color sold, and also shipping address so the bike can be sent to the purchaser.
+* Internal customer: Purchasing team needs summary report of bike styles sold each week for forecasting and restocking purposes.
 
 #### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
 
-**April 13**
+**April 19**
 
 * Feature requests, bug reports, etc. are checked every Monday and project manager determines priorities for the week (manual)
 * Code gets written based on priorities (manual)
@@ -44,7 +47,7 @@ I work in a small company called ShoeBytes that sells footwear. The company has 
 
 #### What are all the teams or people that are involved in a product release, from start to finish? 
 
-**April 13**
+**April 19**
 
 * Project manager
 * Marketing
@@ -55,7 +58,7 @@ I work in a small company called ShoeBytes that sells footwear. The company has 
 
 #### How is communication handled in your organization? 
 
-**April 13**
+**April 19**
 
 We pretty much just talk within a team and with a manager and PM. I sometimes talk with other teams over lunch and usually find out a lot of interesting things that are even helpful at work.
 
