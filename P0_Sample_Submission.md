@@ -4,14 +4,9 @@
 
 Udacity DevOps NanoDegree Project0 submission.
 
-<!--
-Use this sample submission as a guide as you create your own submission for the Improvement Plan project. Your own submission should not replicate these answers about the ShoeBytes company. Rather, it should be based on either your own situation, or the fictional company described later.
-
-Notice that the submission includes a date for each answer. As you progress through the Nanodegree program, you will be invited to return to your Improvement Plan and to update it based on the new skills and techniques you have acquired. When you revise the plan in this way, please **leave in your previous responses** to each answer, and add a new one below with the date. This will make the project a living document that will serve as your own record of what you have learned.
--->
 ## Organizational Snapshot
 
-#### Provide a brief description of your company and your team's role in it.
+#### Company description.
 
 **April 22**
 
@@ -126,14 +121,3 @@ Now - 5. The testing team is good about the routines but sometimes even when eve
 
 Rating: 7. They are okay. We have a feedback link on our site, and we follow what people say about us in social media.
 
-<!--
-## Conclusion
-
-That's it for the sample submission! Something like this would meet specifications for the project. However, the sample represents a typical effort, not the best. For instance, the sample does not provide any insight into steps that might be taken to remediate the problems in the software development lifecycle. The goal of the project is to get you started thinking like a DevOps Engineer, so the more concrete details you can give about problems and possible solutions, the better.
-
-[Project Description](P0_Improvement_Plan.md)
-
-[Project Submission Template](P0_Template.md)
-
-[Fictional Company Description](P0_Fictional_Company.md)
--->
