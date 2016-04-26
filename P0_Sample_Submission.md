@@ -8,13 +8,13 @@ Udacity DevOps NanoDegree Project0 submission.
 
 #### Company description.
 
-**April 22**
+**April 26**
 
 I work as backend/devops developer in a small company called **La Laguna Bike Center** that sells mainly mountainbikes and all related stuff. The company has a total of six retail stores in three different cities, as well as an online store. Our company has about 600 employees. The IT department is 80 people. My team of 12 people is part of the IT department and maintains the online storefront.
 
 #### What is the core function of your team? What is the core function of your company or organizational unit? Is the core function of your team well aligned with the function of the larger organizational unit or the company as a whole?
 
-**April 22**
+**April 26**
 
 * Team goal: Provide an online bike store for customers
 * Organizational unit: Maintain web presence and IT infrastructure for company
@@ -22,7 +22,7 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 
 #### Who are your team's customers? Are they internal or external? What do they need?
 
-**April 22**
+**April 26**
 
 * External customer: users of the online store. They need to be able to buy mtb products.
 * Internal customer: Accounting team. Need to receive daily totals of online purchase receipts.
@@ -31,7 +31,7 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 
 #### What is the current flow of software development and delivery in your team? List the main steps and whether they are manual or automated. 
 
-**April 19**
+**April 26**
 
 * Feature requests, bug reports, etc. are checked every Monday and project manager determines priorities for the week (manual)
 * Code gets written based on priorities (manual)
@@ -42,7 +42,7 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 
 #### What are all the teams or people that are involved in a product release, from start to finish? 
 
-**April 22**
+**April 26**
 
 * Project manager
 * Marketing
@@ -53,7 +53,7 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 
 #### How is communication handled in your organization? 
 
-**April 22**
+**April 26**
 
 We pretty much just talk within a team and with a manager and PM. I sometimes talk with other teams over lunch and usually find out a lot of interesting things that are even helpful at work.
 
@@ -61,63 +61,63 @@ We pretty much just talk within a team and with a manager and PM. I sometimes ta
 
 #### How satisfied are you with how other teams work and support the work that you do? (Scale: 1-10, 10 is best)
 
-**April 22**
+**April 26**
 
 Rating: 6. 
 
 #### Do deployments go smoothly? (Scale: 1-10, 10 is best)
 
-**April 22**
+**April 26**
 
 Rating: 3. We had major problems the last couple of times with code not running properly in production though it was fine in testing. E.g., Customers were not able to click the checkout button.
 
 #### Do you have planned downtime for system upgrades or maintenance? 
 
-**April 22**
+**April 26**
 
 Yes, usually once every 1-2 months in the night.
 
 #### How much time does it take to set up the environment for a new project? 
 
-**April 22**
+**April 26**
 
 About 2 days, if sysadmins are not busy with release or a week if they are busy.
 
 #### How often do you deploy to production? 
 
-**April 22**
+**April 26**
 
 * Currently: 1/month
 * Ideally: maybe 2-3/week
 
 #### How long does it take to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? 
 
-**April 22**
+**April 26**
 
 1-3 weeks
 
 #### How easy is it to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? (Scale: 1-10, 10 is best) 
 
-**April 22**
+**April 26**
 
 Rating: 3. It takes too long sometimes, even when the bug fix is done, to get on to the production servers because they have to be shut down and brought back up which is not acceptable for sales. 
 
 #### How would you rate the quality of your software? (Scale: 1-10, 10 is best) 
 
-**April 22**
+**April 26**
 
 Rating: 6. It's ok. We have a testing team with a good routine and a bugtracker with good rules for dealing with issues.
 
 #### How easy it is to test your software? (Scale: 1-10, 10 is best)
 
-**April 22**
+**April 26**
 
 Now - 5. The testing team is good about the routines but sometimes even when everything works in testing it is broken in production.
 
 
 #### How satisfied are your customers? (Scale: 1-10, 10 is best)
 
-**April 22**
+**April 26**
 
 Rating: 7. They are okay. We have a feedback link on our site, and we follow what people say about us in social media.
 
