@@ -36,7 +36,7 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 * Feature requests, bug reports, etc. are checked every Monday and project manager determines priorities for the week (manual)
 * Code gets written based on priorities (manual)
 * Software gets checked into codebase (manual)
-* Every Friday afternoon it gets deployed to a test server (manual) 
+* Once a week, normally wednesday afternoon, it gets deployed to a test server (manual) 
 * QA team tests it and files bug reports or signs off as appropriate (manual) 
 * Once a month codebase is sent to ops team for deployment into production (I don't know if it's automated or manual, but judging from ops usually staying late for the release days it's manual).
 
@@ -53,71 +53,72 @@ I work as backend/devops developer in a small company called **La Laguna Bike Ce
 
 #### How is communication handled in your organization? 
 
-**April 26**
+**April 28**
 
-We pretty much just talk within a team and with a manager and PM. I sometimes talk with other teams over lunch and usually find out a lot of interesting things that are even helpful at work.
+I think communication is not as good as we would have liked. I sometimes talk with other teams over lunch and usually find out a lot of interesting things that are even helpful at work.
 
 # Quantitative Ratings
 
 #### How satisfied are you with how other teams work and support the work that you do? (Scale: 1-10, 10 is best)
 
-**April 26**
+**April 28**
 
-Rating: 6. 
+Rating: 5. 
 
 #### Do deployments go smoothly? (Scale: 1-10, 10 is best)
 
-**April 26**
+**April 28**
 
-Rating: 3. We had major problems the last couple of times with code not running properly in production though it was fine in testing. E.g., Customers were not able to click the checkout button.
+Rating: 2. Well, most of the times everything works pretty well, however sometimes we have had major problems and all the system had to be down and rolled back to the previous version. It was a very uncomfortable situation.
 
 #### Do you have planned downtime for system upgrades or maintenance? 
 
-**April 26**
+**April 28**
 
-Yes, usually once every 1-2 months in the night.
+Yes, almost every month in the late night, in order to affect to a low number of users.
 
 #### How much time does it take to set up the environment for a new project? 
 
-**April 26**
+**April 28**
 
-About 2 days, if sysadmins are not busy with release or a week if they are busy.
+About 3 days, if sysadmins are not busy with the new release or a week to ten days if they are busy.
 
 #### How often do you deploy to production? 
 
-**April 26**
+**April 28**
 
 * Currently: 1/month
 * Ideally: maybe 2-3/week
 
 #### How long does it take to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? 
 
-**April 26**
+**April 28**
 
-1-3 weeks
+* Normal situations: 3 weeks
+* In very busy periods: 4-5 weeks
 
 #### How easy is it to deploy a new feature or bugfix from "code checked in to repository" to "feature is live to customers"? (Scale: 1-10, 10 is best) 
 
-**April 26**
+**April 28**
 
 Rating: 3. It takes too long sometimes, even when the bug fix is done, to get on to the production servers because they have to be shut down and brought back up which is not acceptable for sales. 
 
 #### How would you rate the quality of your software? (Scale: 1-10, 10 is best) 
 
-**April 26**
+**April 28**
 
 Rating: 6. It's ok. We have a testing team with a good routine and a bugtracker with good rules for dealing with issues.
 
 #### How easy it is to test your software? (Scale: 1-10, 10 is best)
 
-**April 26**
+**April 28**
 
-Now - 5. The testing team is good about the routines but sometimes even when everything works in testing it is broken in production.
+Now - 4. The testing team is good about the routines but sometimes even when everything works in testing it is broken in production.
 
 
 #### How satisfied are your customers? (Scale: 1-10, 10 is best)
 
-**April 26**
+**April 28**
 
-Rating: 7. They are okay. We have a feedback link on our site, and we follow what people say about us in social media.
+Rating: 6. I think they are pretty satisfied. We have a feedback link on our site, and we follow what people say about us in social media.
 
